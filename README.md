@@ -1,9 +1,9 @@
 # eVisionTech API
 ## To start:
 
-- Set the absolute path to the config yaml
+- Set the path to the config yaml
 ```YAML
-dir_name: 'YOUR_ABSOLUTE_FILE_PATH'
+dir_name: FILE_NAME_IN_CURRENT_DIRECTORY'
 ```
 - Run docker compose up
 - Try GET localhost:8000/api/meta
